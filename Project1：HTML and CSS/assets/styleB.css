@@ -1,0 +1,31 @@
+body {
+    display: grid;
+    grid-template-columns: repeat(5, 110px);
+    column-gap: 10px;
+}
+
+.letter {
+    height: 150px;
+    width: 100px;
+    background-color: #eeeff2;
+    border-left: dotted 10px #D0D0FF;
+    /*padding: 10px 0px 0px 10px;*/
+    font-family: Tahoma;
+    font-size: 40px;
+}
+
+.align{
+    margin: 0 auto;
+}
+
+.letter:hover {
+    background-color: yellow;
+    color: goldenrod;
+    cursor: pointer;
+}
+
+.last {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
