@@ -15,6 +15,7 @@ This repo is for <a href="http://web.stanford.edu/class/cs142/index.html">CS142<
 ## Progress
 
 - <a href="https://github.com/ascendho/CS142-Web-Development/tree/master/Project1%EF%BC%9AHTML%20and%20CSS">Project1:HTML and CSS</a>
+- <a href="">Project2:JavaScript Calisthenics</a>
 
 
 
